@@ -17,6 +17,7 @@ Aouthor was build this system using following technologies and frameworks
 
 * HTML
 * CSS
+* Java Script
 * Bootstrap 
 * Fontawesome  
 
